@@ -1,4 +1,4 @@
-# bioequivalence-analysis-toolkit
+# Bioequivalence Analysis Toolkit
 This repository contains workflows used for pharmacokinetic and bioequivalence analysis in exploratory clinical pharmacology studies.
 
 ## Current Release
